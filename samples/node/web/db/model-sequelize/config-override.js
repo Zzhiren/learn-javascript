@@ -1,6 +1,4 @@
-
 var config = {
-    dialect: 'mysql',
     database: 'zzhiren_test',
     username: 'tzcang',
     password: '911110',
